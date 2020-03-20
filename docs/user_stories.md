@@ -46,8 +46,8 @@ Ray clicks on the link for the meetup group and is redirected to Meetup.com.
 
 **Persona**
 
-Name: Ray
-Age: 29
+Name: Ray<br>
+Age: 29<br>
 “I’ve registered for the current course and joined the meetup group. Now I’m curious about the other parts of the website.
 
 **Intrigue: Getting Started Steps**
@@ -67,8 +67,8 @@ Ray clicks on the link for the Slack invitation and is redirected to the form fo
 
 **Persona**
 
-Name: Ray
-Age: 29
+Name: Ray<br>
+Age: 29<br>
 “I’ve registered for the current course, joined the meetup group, and joined the slack channel. Now I’m curious about the other parts of the website.
 
 **Intrigue: Getting Started Steps**
@@ -88,8 +88,8 @@ Ray clicks on the link for Github and is redirected to github.com.
 
 **Persona**
 
-Name: Ray
-Age: 29
+Name: Ray<br>
+Age: 29<br>
 “I’ve completed all the steps for getting started and now I’m curious about other aspects of the site and group.”
 
 **Intrigue: Getting access to Lynda.com**
@@ -109,8 +109,8 @@ After reading about the benefits of registering with his local library, Ray clic
 
 **Persona**
 
-Name: Ray
-Age: 29
+Name: Ray<br>
+Age: 29<br>
 “I’ve registered with my local library and gained access to Lynda.com and now I’m curious about other aspects of the site and group.”
 
 **Intrigue: General Resources Section**
@@ -130,8 +130,8 @@ Ray clicks on the link for the resource and is redirected to the corresponding w
 
 **Persona**
 
-Name: Ray
-Age: 29
+Name: Ray<br>
+Age: 29<br>
 “I’ve completed all the steps for getting started and explored the resources section of the site. I’m curious to see what else the site has to offer.”
 
 **Intrigue: Exploring the Articles section**

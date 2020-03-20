@@ -48,13 +48,13 @@ Ray clicks on the link for the meetup group and is redirected to Meetup.com.
 
 Name: Ray<br>
 Age: 29<br>
-“I’ve registered for the current course and joined the meetup group. Now I’m curious about the other parts of the website.
+“I’ve registered for the current course and joined the meetup group. Now I’m curious about the other parts of the website."
 
 **Intrigue: Getting Started Steps**
 
 After joining the group on Meetup.com Ray returns to the landing page of the Python Pirates website. 
 
-**Engage: Request Slack Channel ivitation**
+**Engage: Request Slack Channel invitation**
 
 Under the Current Course banner Ray sees the banner for the Slack invitation and is curious about that as well.
 
@@ -69,7 +69,7 @@ Ray clicks on the link for the Slack invitation and is redirected to the form fo
 
 Name: Ray<br>
 Age: 29<br>
-“I’ve registered for the current course, joined the meetup group, and joined the slack channel. Now I’m curious about the other parts of the website.
+“I’ve registered for the current course, joined the meetup group, and joined the slack channel. Now I’m curious about the other parts of the website."
 
 **Intrigue: Getting Started Steps**
 
@@ -115,11 +115,11 @@ Age: 29<br>
 
 **Intrigue: General Resources Section**
 
-After registering with his local library, Ray returns to the Resources section and continue to scroll through the page, exploring all the different ressources.
+After registering with his local library, Ray returns to the Resources section and continues to scroll through the page, exploring all the different resources.
 
 **Engage: Explore Specific Resource**
 
-Ray finds a resource that intersts.
+Ray finds a resource that interests him.
 
 **Close: Link to Specific Resource**
 
@@ -140,7 +140,7 @@ After completing all of the steps in the Getting Started section and exploring t
 
 **Engage: Finding an interesting article**
 
-Ray reads through the article description and finds an article he’s interested in. He clicks on the link for the article and is taken to the page for the article.
+Ray reads through the article descriptions and finds an article he’s interested in. He clicks on the link for the article and is taken to the page for the article.
 
 **Close: Reading Article**
 

@@ -4,8 +4,8 @@
 
 **Persona**
 
-Name: Ray
-Age: 29
+Name: Ray<br>
+Age: 29<br>
 “I’m interested in learning programming and I came across this site through meetup.com”
 
 **Intrigue: Getting Started Steps**
@@ -25,8 +25,8 @@ Ray clicks on the link for the current course and is redirected to the correspon
 
 **Persona**
 
-Name: Ray
-Age: 29
+Name: Ray<br>
+Age: 29<br>
 “I’ve registered for the current course and now I’m back to explore more of the site.”
 
 **Intrigue: Getting Started Steps**
